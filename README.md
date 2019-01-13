@@ -1,7 +1,7 @@
 # Object-Detection using YOLO(You only look once)
-Its live-object detetction using webcam. Its detects type of the object displaying the name of the object with probability.
+Its a live-object detetction using webcam. It detects type of the object, displaying the name of the object with probability.
 
-#Its mandatory to isntall python version 3 and opencv version > 3.3
+#Its mandatory to install python version 3 and opencv version > 3.3
 
 #To install python 3
 $ sudo apt-get update
